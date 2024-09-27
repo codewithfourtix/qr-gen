@@ -63,7 +63,7 @@ body {
 #imgbox .show-img {
     max-height: 300px;
     margin: 10px auto;
-    border: 1px solid #d1d1d1;
+    border: 1.5px solid #d1d1d1;
     overflow: visible;
     display: flex;
     align-items: center;
